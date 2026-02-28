@@ -1,3 +1,4 @@
+
 # 🎵🖼️ Image Vibes
 
 **Image Vibes** is an AI-powered web app that generates creative captions for images and recommends music based on the mood detected in faces. It combines advanced computer vision and emotion recognition models with music APIs to create an engaging multimedia experience.
