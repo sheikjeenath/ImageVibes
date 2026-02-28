@@ -33,7 +33,7 @@
 ### 1️⃣ Clone the Repo
 
 ```bash
-git clone https://github.com/Harshitha-Somu/image-vibes.git
+git clone https://github.com/sheikjeenath/ImageVibes
 cd image-vibes
 ```
 
@@ -105,8 +105,8 @@ python test_deepface.py
 
 ## 👩‍💻 Developed By
 
-**Harshitha Somu**  
-🔗 [GitHub](https://github.com/Harshitha-Somu) • 💼 [LinkedIn](https://www.linkedin.com/in/harshitha-somu-2a2843317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+**Jeenath Unnisa Begum Sheik**  
+🔗 [GitHub](https://github.com/sheikjeenath) • 💼 [LinkedIn](https://www.linkedin.com/in/jeenath-unnisa-begum-sheik-532b8b328/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
