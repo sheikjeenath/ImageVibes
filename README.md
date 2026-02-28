@@ -17,7 +17,7 @@ Music API: Last.fm API
 Database: SQLite
 ⚙️ Getting Started
 1️⃣ Clone the Repo
-git clone https://github.com/Harshitha-Somu/image-vibes.git
+git clone https://github.com/sheikjeenath/ImageVibes
 cd image-vibes
 2️⃣ Create Virtual Environment
 python -m venv venv
